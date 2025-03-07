@@ -45,6 +45,7 @@ The Countries API is a simple yet powerful RESTful API that provides information
 Would you like any more details or a custom implementation? 😊
 
 
+![Screenshot 2025-03-07 152825](https://github.com/user-attachments/assets/5773a2cc-a9de-4687-85a6-c395d6b78147)
 
 
 
